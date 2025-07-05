@@ -12,15 +12,11 @@ import './bootstrap';
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-import './components/GetStarted';
-import './components/UsersList';
-import './components/courses/Courses';
-import './components/courses/Create';
-import './components/courses/Details';
-import './components/plans/PlanSwitchAndCurrencySelect';
-import './components/ZoomMeetingBooking';
-import './components/uploads/Uploads';
-import './components/uploads/Create';
-import './components/EarTraining/Index';
-import './components/EarTraining/Create'
-import './components/EarTraining/Show'
+import './components/visitors/SlidingBanner';
+import './components/visitors/HowItWorks';
+import './components/visitors/FeaturesSection';
+import './components/visitors/LiveDemoSection';
+import './components/visitors/Pricing';
+import './components/visitors/TestimonialsSection';
+import './components/visitors/FAQSection';
+import './components/visitors/FinalCTABanner';

@@ -1,13 +1,13 @@
 @extends("layouts.app")
 
 @section("content")
-@include("components.banner")
-@include("components.roadmap")
-@include("components.joinow")
-@include("components.journey")
-@include("components.joinow2")
-@include("components.stats")
-@include("components.courses")
-@include("components.subscribe")
+@include('components.hero')
+@include('components.work')
+@include('components.features')
+@include('components.demo')
+@include('components.pricing')
+@include('components.testimonial')
+@include('components.faq')
+@include('components.conversion')
 
 @endsection
