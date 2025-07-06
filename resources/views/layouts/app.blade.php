@@ -48,7 +48,6 @@
                 $navLinks = [
                     '/' => 'Home',
                     'about' => 'About',
-                    'services' => 'Services',
                     'faq' => 'FAQ',
                     'contact' => 'Contact'
                 ];
@@ -169,7 +168,6 @@
                 <h4 class="font-semibold uppercase tracking-wide text-gray-400">Quick Links</h4>
                 <ul class="space-y-2">
                     <li><a href="/about" class="hover:text-rose-400">About</a></li>
-                    <li><a href="/pricing" class="hover:text-rose-400">Pricing</a></li>
                     <li><a href="/faq" class="hover:text-rose-400">FAQs</a></li>
                     <li><a href="/contact" class="hover:text-rose-400">Contact</a></li>
                 </ul>

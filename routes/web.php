@@ -25,6 +25,10 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/faq', function () {
+    return view('faq');
+});
+
 Auth::routes(
     ['verify' => true]
 );

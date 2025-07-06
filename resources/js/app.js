@@ -20,3 +20,4 @@ import './components/visitors/Pricing';
 import './components/visitors/TestimonialsSection';
 import './components/visitors/FAQSection';
 import './components/visitors/FinalCTABanner';
+import './components/visitors/ContactForm';
